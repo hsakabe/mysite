@@ -1,3 +1,8 @@
+# 自分でモジュールを作れるが、Pythonには便利はモジュールが用意されている
+# あらかじめ用意されているモジュール：標準ライブラリと呼ばれる
+# math / random / datetime
+# import モジュール名
+#
 import utils
 # randomモジュールを読み込んでください
 import random

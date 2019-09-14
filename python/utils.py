@@ -1,3 +1,4 @@
+# 3つの関数のコードを貼り付けてください
 # 3つの関数のコードをutils.pyに移してください（こちらのコードは消してください）
 def validate(hand):
     if hand < 0 or hand > 2:
